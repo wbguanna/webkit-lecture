@@ -61,3 +61,4 @@ new Promise(task1).then(fullfilled, rejected);
 
 ```
 보통 생각하는 호출 스택대로 
+
